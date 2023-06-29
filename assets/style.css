@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+}
+.header{
+    background-image:url("../assets/img/iphoneimagen2.png");
+    padding: 8em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.header h1{
+    color: white;
+    font-size: 5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.header p{
+    color:blanchedalmond;
+    font-size: 2.0em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.bodyproduct h2{
+    color:black;
+    font-size: 1.7em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+.bodyproduct td{
+    width: 60%;
+    padding: 0.3em;
+    text-align: center;
+
+}
+.bodyproduct2 td{
+    width: 60%;
+    padding: 0.3em;
+    text-align: center;
+}
+.bodyproduct3 td{
+    width: 60%;
+    padding: 0.3em;
+    text-align: center;
+}
+.bodyproduct img{
+    width: 80%;
+ padding: 0.5em;
+}
+.bodyproduct2 img{
+    width: 80%;
+    padding: 0.5em;
+}
+.bodyproduct3 img{
+    width: 80%;
+    padding: 0.5em;
+}
+.bodyproduct4{
+    color:black;
+    text-align: center;
+    font-size: 1.3em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer{
+    color: aliceblue;
+    padding: 2.0em;
+    text-align: center;
+    background-color: black;
+}
+
+.price_product {
+    color: red;
+    font-size: 1.6em;
+}
+.name_product{
+    color: black;
+    font-size: 1.5em;
+    font-style: italic;
+}
+.delivery_product{
+    color: red;
+    font-size: 0.8em;
+}
